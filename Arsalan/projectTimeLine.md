@@ -63,7 +63,7 @@ Another possible Approach IMO, can be to use encoding to decide each players sta
 	| (0) | Player is out |
 	| (1) | Player is in game |
 	| (5) | Player is non striker |
-	| (10) | Player is baller |
+	| (10) | Player is bowler |
 	| (10) | Player is batsman |
 
   
