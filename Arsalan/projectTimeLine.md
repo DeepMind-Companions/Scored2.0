@@ -154,3 +154,6 @@ I demonstrated in the notebook what we really need. Here I will draft the pseudo
 
 **New Issue:**
 Another thing I have to resolve now is that I will have to deal with both team's lineups.
+
+
+## Closed (I did not continue this timeline)
