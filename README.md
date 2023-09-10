@@ -2,42 +2,37 @@
 ---
 
 ## Description
-Scored 2.0 is a project made by 3 people to predict cricket scores and win percentages. There are many different models created (and still being created) by Muhammad Arsalan Khan, Athar Rizwan and Aun Noman.
+Scored 2.0 is a collaborative project undertaken by three passionate individuals, Muhammad Arsalan Khan, Athar Rizwan, and Aun Noman. Our mission? To predict cricket scores and win percentages using innovative machine learning models.
 
-## Usage
-In order to quickly jump right into it's working, go to [scored](./Scored.ipynb) where the models are up for display.
+## The Code Behind It
+While the front end of our project may seem simple, the magic happens behind the scenes. If you're curious to explore the inner workings and dive into the code, follow these paths:
 
-## The Code Behind it.
-Obviously, the simple model itself doesn't show what is happening on the backend. If you would like to navigate and understand the folders, follow through here:
+The project structure is organized into three main folders, each named after one of our team members: [Aun](./Aun), [Athar](./Athar), and [Arsalan](./Arsalan). Despite our collaborative efforts, we deliberately worked independently to bring diverse perspectives to the table. This is most evident in the distinct implementations of Arsalan's and Athar's models, particularly when handling wide and extra balls.
 
-The project is divided into 3 main folders, named [Aun](./Aun), [Athar](./Athar) and [Arsalan](./Arsalan). Even though we collaborated on our work, we made sure we work separately in order to gain different perspectives to this problem. This is clearly evident in seperate implementation of Arsalan's and Athar's models (especially when it comes to handling wide and extra balls).
-
-**In each of these folders, there are the following READMEs that describe their individual navigation and project flow:**
-- [Athar's README](./Athar/README.md)
-- [Aun's README](./Aun/README.md)
-- [Arsalan's README](./Arsalan/README.md)
-
-**In theory, each of their folder is divided into 3 main folders:**
-- Notebooks.
-  - In notebooks, all of the code is written, both to gather and augment the data as well.
+**In essence, each team member's folder contains three key subfolders:**
+- Notebooks
+  - Here, you'll find all the code—both for data collection and augmentation, as well as model development.
 - Resources
-  - Here, all the data is stored in pickle format. The data is augmented in notebooks and stored here in .pkl formal.
-  - **IMPORTANT!** The Resources folder might not exist in each of their folders due to it's large size, and in order to access these, you can find their links as given below:
+  - This is where we store our data in pickle and CSV formats, after augmenting it in the notebooks.
+  - **IMPORTANT!** The Resources folder may not be present in each team member's directory due to its size. You can access these resources via the provided links:
     - [Arsalan's Resources folder](https://drive.google.com/drive/folders/1ktAqRtGnHsQh1bYuXazkxhXbYOBIbz1l?usp=drive_link)
 - Models
-  - Here, all the trained final models are stored. These are later accessed in order to show their working as well.
+  - This is the home of our trained final models, which are utilized to showcase the magic in action.
 
 ## Contributing
-We would love to further work on our project as we believe a lot more can be done on it. If you are interested in contributing, please contact us [here](#contact-us) if you would like to collaborate with us.
+We're passionate about advancing our project, and we firmly believe that there's more to explore and enhance. If you're interested in contributing, we welcome collaboration.
 
-Some ideas we believe can be used to further improve our project (most of it we will continue to work ourselves on as well):
-- Deploy the model.
-- Make a frontend website/app that can support our model.
-- Use more data and features to get more accurate results.
-- Try different types of models.
+Here are some ideas we're excited to explore further (and we'll be working on them ourselves too):
+- Deploy the model for wider use.
+- Develop a user-friendly frontend website or app to support our model.
+- Incorporate additional data and features for even more accurate predictions.
+- Experiment with different types of models for further improvements.
 
-## Contact Us {#contact-us}
-You can contact us on our emails:
+## Contact Us
+Feel free to reach out to us via email:
 
 - Muhammad Arsalan - makhan.bese22seecs@seecs.edu.pk
 - Muhammad Athar - mathar.bese22seecs@seecs.edu.pk
+- Aun Noman - aunnoman123@gmail.com
+
+Let's connect and make cricket prediction more exciting and accurate together! 🏏🤖📈
